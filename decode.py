@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 
 '''
-MOUDLE : decode source data to cluster with excluding overlap siganl
+MOUDLE : decode laser data
 '''
 
 __author__ = "YANG TAO <yangtao@ihep.ac.cn>"
 __copyright__ = "Copyright (c) yangtao"
-__created__ = "[2018-04-10 Apr 12:00]"
+__created__ = "[2018-07-24 Apr 12:00]"
 
 import os
 import sys
